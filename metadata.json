@@ -1,0 +1,5 @@
+{
+  "name": "Placar Pro - Torneio em Tempo Real",
+  "description": "Um sistema em tempo real para acompanhamento de jogos de vôlei e futsal em um torneio, permitindo que fiscais de quadra registrem placares, faltas e pênaltis, com visualização pública das chaves e resultados.",
+  "requestFramePermissions": []
+}
